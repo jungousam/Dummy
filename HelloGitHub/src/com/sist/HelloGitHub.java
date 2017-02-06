@@ -7,6 +7,8 @@ public class HelloGitHub {
 		System.out.println("It's DVCS");
 		System.out.println("It's collaboration");
 		System.out.println("Conflict");
+		System.out.println("pushed");
+		System.out.println("fetched");
 		
 	}
 }
